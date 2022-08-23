@@ -1,2 +1,3 @@
 # DPO-Taller-1-
-Taller 1 de DPO
+Entrega del Taller 1 de DPO
+Juan Esteban Jimenez Benavides - j.jimenezb - 201922487
